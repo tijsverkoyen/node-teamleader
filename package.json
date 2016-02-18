@@ -1,0 +1,22 @@
+{
+  "name": "teamleader",
+  "version": "1.0.0",
+  "description": "API client for Teamleader",
+  "main": "./lib/teamleader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tijsverkoyen/node-teamleader.git"
+  },
+  "keywords": [
+    "teamleader"
+  ],
+  "author": "Tijs Verkoyen <node-teamleader@verkoyen.eu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tijsverkoyen/node-teamleader/issues"
+  },
+  "homepage": "https://github.com/tijsverkoyen/node-teamleader#readme"
+}
